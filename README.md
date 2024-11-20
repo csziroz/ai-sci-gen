@@ -25,7 +25,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/ai-sci-gen.git
+   git clone https://github.com/csziroz/ai-sci-gen.git
    cd ai-sci-gen
    
 2. Создайте файл .env на основе .env.example и добавьте свой OpenAI API ключ:
@@ -46,7 +46,7 @@
 
 1. Склонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/ai-sci-gen.git
+    git clone https://github.com/csziroz/ai-sci-gen.git
     cd ai-sci-gen
 
 2. Создайте виртуальное окружение и активируйте его:
