@@ -1,3 +1,5 @@
+# Точка входа приложения
+
 from fastapi import FastAPI, HTTPException
 from ai_integration import generate_sci_bio
 from database import create_record, get_record
